@@ -1,0 +1,19 @@
+﻿  CCourseMgr.cpp
+  CIntegratedMgr.cpp
+  CMyList.cpp
+  CMyQueue.cpp
+  CMyStack.cpp
+  CMystring.cpp
+e:\科锐\科锐作业答案\数据结构项目\studentmanagersystem\studentmanagersystem\cmystring.cpp(58): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\科锐\科锐作业答案\数据结构项目\studentmanagersystem\studentmanagersystem\cmystring.cpp(67): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\科锐\科锐作业答案\数据结构项目\studentmanagersystem\studentmanagersystem\cmystring.cpp(116): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\科锐\科锐作业答案\数据结构项目\studentmanagersystem\studentmanagersystem\cmystring.cpp(156): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\科锐\科锐作业答案\数据结构项目\studentmanagersystem\studentmanagersystem\cmystring.cpp(298): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CMyTree.cpp
+  CSeleCourseMgr.cpp
+  CStudentMgr.cpp
+e:\科锐\科锐作业答案\数据结构项目\studentmanagersystem\studentmanagersystem\cstudentmgr.cpp(379): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  RefCount.cpp
+  正在生成代码...
+  StudentManagerSystem.vcxproj -> E:\科锐\科锐作业答案\数据结构项目\StudentManagerSystem\x64\Debug\StudentManagerSystem.exe

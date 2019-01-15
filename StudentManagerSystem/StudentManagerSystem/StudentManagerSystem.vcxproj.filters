@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="CStudentMgr">
+      <UniqueIdentifier>{508d088f-4ae3-4c9c-98ff-c303e4cae1ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CCourseMgr">
+      <UniqueIdentifier>{31810ca8-c3c3-410e-94e7-71a9fb982268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSeleCourseMgr">
+      <UniqueIdentifier>{14a9d7c7-bda4-4541-939e-69e046ff639b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMyList">
+      <UniqueIdentifier>{ae7335f2-5ca5-45eb-bf31-2e06e59dc7e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMyQueue">
+      <UniqueIdentifier>{34c258ea-6081-4e05-934f-909d68aa3cfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMyStack">
+      <UniqueIdentifier>{e9279f3a-b3e5-4c03-8040-e96d5290bc21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMyTree">
+      <UniqueIdentifier>{8b9fd0d4-7bef-4b7b-a61b-3238bb188faf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMyString">
+      <UniqueIdentifier>{67b3c140-b015-4b71-8576-dea96bc1253c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CStudentMgr.cpp">
+      <Filter>CStudentMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CCourseMgr.cpp">
+      <Filter>CCourseMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CSeleCourseMgr.cpp">
+      <Filter>CSeleCourseMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CMystring.cpp">
+      <Filter>CMyString</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyList.cpp">
+      <Filter>CMyList</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyQueue.cpp">
+      <Filter>CMyQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyStack.cpp">
+      <Filter>CMyStack</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyTree.cpp">
+      <Filter>CMyTree</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RefCount.cpp">
+      <Filter>CMyString</Filter>
+    </ClCompile>
+    <ClCompile Include="CIntegratedMgr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CStudentMgr.h">
+      <Filter>CStudentMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CCourseMgr.h">
+      <Filter>CCourseMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CSeleCourseMgr.h">
+      <Filter>CSeleCourseMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CMystring.h">
+      <Filter>CMyString</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyList.h">
+      <Filter>CMyList</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyQueue.h">
+      <Filter>CMyQueue</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyStack.h">
+      <Filter>CMyStack</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyTree.h">
+      <Filter>CMyTree</Filter>
+    </ClInclude>
+    <ClInclude Include="RefCount.h">
+      <Filter>CMyString</Filter>
+    </ClInclude>
+    <ClInclude Include="CIntegratedMgr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

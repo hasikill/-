@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="CMyList">
+      <UniqueIdentifier>{f74d0bf1-4f7b-48bf-81e4-a2b92f786c95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMyQueue">
+      <UniqueIdentifier>{5c01fb32-48e1-4f29-b9e0-779e8437f0f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMyStack">
+      <UniqueIdentifier>{abc13be2-89df-4e8a-b80d-fe5f7e58ced6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMyTree">
+      <UniqueIdentifier>{8966da8a-db2b-4eb2-b300-0b94449d2abd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CStudentMgr">
+      <UniqueIdentifier>{173c4044-87a5-4928-8e80-876ab9d3cf30}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyList.cpp">
+      <Filter>CMyList</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyQueue.cpp">
+      <Filter>CMyQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyStack.cpp">
+      <Filter>CMyStack</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyTree.cpp">
+      <Filter>CMyTree</Filter>
+    </ClCompile>
+    <ClCompile Include="CStudentMgr.cpp">
+      <Filter>CStudentMgr</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CMyList.h">
+      <Filter>CMyList</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyQueue.h">
+      <Filter>CMyQueue</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyStack.h">
+      <Filter>CMyStack</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyTree.h">
+      <Filter>CMyTree</Filter>
+    </ClInclude>
+    <ClInclude Include="CStudentMgr.h">
+      <Filter>CStudentMgr</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
